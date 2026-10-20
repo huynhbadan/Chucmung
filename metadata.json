@@ -1,0 +1,8 @@
+{
+  "name": "Chúc những cô gái A2",
+  "description": "Website mở hộp quà yêu thương dành riêng cho những cô gái A2 với hiệu ứng hoạt hình sống động, pháo giấy, cánh hoa rơi và lời chúc ý nghĩa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
